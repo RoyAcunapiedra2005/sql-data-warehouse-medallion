@@ -18,9 +18,7 @@ GO
 -- Creación de esquemas de la Arquitectura Medallion
 CREATE SCHEMA bronze;
 GO
-
 CREATE SCHEMA silver;
 GO
-
 CREATE SCHEMA gold;
-GOs
+GO
